@@ -25,7 +25,7 @@ Before shifting into IT, I managed crews in the field and operated CNC machinery
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wjohnson-sec&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wjohnson-sec&show_icons=true&theme=tokyonight&v=1)
 
 ## 📫 Let's Connect
 
