@@ -29,4 +29,4 @@ Before shifting into IT, I managed crews in the field and operated CNC machinery
 
 ## 📫 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/wiley-t-johnson/
+- [LinkedIn]https://www.linkedin.com/in/wiley-t-johnson/
